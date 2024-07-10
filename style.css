@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+#name{
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    border: dodgerblue solid 1px;
+}
+#amount{
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    border: dodgerblue solid 1px;
+}
+#salary{
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    border: dodgerblue solid 1px;
+}
+.btnn{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: greenyellow;
+    font-size: 20px;
+    color: white;
+}
+.b{
+    font-size: 48px;
+    margin-left: 600px;
+    color: aquamarine;
+}
+#employeeForm{
+    margin-left: 300px;
+}
